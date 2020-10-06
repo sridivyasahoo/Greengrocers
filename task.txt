@@ -1,0 +1,22 @@
+Admin :
+-------------
+Vendor Stock Menu - 
+  present - search by vendor
+  do - search by item
+  detail/view - qty should be in terms of kg, price per kg.
+
+Vendor :
+-------------
+Vendor Stock Menu - 
+  present - search by vendor should not be present, rather vendor should get interface to enter the item of his own store.
+ view/detail- the vendor  should be able to see the detail of item of any vendor
+
+Customer :
+-------------
+Vendor Stock Menu - 
+  present - search by vendor
+  do - search by item
+  detail/view - qty should be in terms of kg, price per kg.
+
+
+Sale in Customer should be changed to purchase, and here once the cutomer will choose an item, the item should added to cart and it must be displayed in cart. When the customer will go for payment, then the items available in the cart must be displayed, once he proceed to payment then his card n bank detail should be entered, after this the customer must enter delivery detail.

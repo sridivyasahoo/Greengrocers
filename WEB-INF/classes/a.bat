@@ -1,0 +1,1 @@
+javac -cp mysql-connector-java-5.1.12-bin.jar;servlet-api.jar;activation.jar;smtp.jar;commons-fileupload-1.3.2.jar;commons-io-2.5.jar;mailapi.jar;. *.java
